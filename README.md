@@ -3,9 +3,9 @@
 
 <img align= "right" alt="Coding" width="95" src= "https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/b248eede-e832-4585-90a0-b76720d39495">
   
-src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/59be6b71-e53f-44f7-8086-646cba4bf3c7">
+<!--src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/59be6b71-e53f-44f7-8086-646cba4bf3c7"
 
-src= "https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/b248eede-e832-4585-90a0-b76720d39495"
+src= "https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/b248eede-e832-4585-90a0-b76720d39495"-->
 
 
 
