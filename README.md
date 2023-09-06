@@ -18,6 +18,7 @@ src= "https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/b248eede-e832-4585-90
 <!--"https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/6720d416-53c5-47e8-ab9f-496eca90dd27"
 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/R/R-original.svg"-->
 
-
-
+###
+<br clear="both">
 <img src="https://raw.githubusercontent.com/Kiyoshi8/Kiyoshi8/output/snake.svg" alt="Snake animation" />
+###
