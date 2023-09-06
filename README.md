@@ -20,4 +20,4 @@ img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/R/R-original.svg"-->
 
 
 
-<img src="https://raw.githubusercontent.com/kiyoshi8/kiyoshi8/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kiyoshi8/Kiyoshi8/output/snake.svg" alt="Snake animation" />
