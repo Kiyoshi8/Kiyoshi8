@@ -23,6 +23,5 @@ img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/R/R-original.svg"-->
 <img src="https://raw.githubusercontent.com/Kiyoshi8/Kiyoshi8/output/snake.svg" alt="Snake animation" />
 ###-->
 
-### 📈 My Github Contributions
-<img src="https://raw.githubusercontent.com/Kiyoshi8/Kiyoshi8/output/snake.svg" alt="Snake animation" />
-<!--![Snake animation](https://github.com/Kiyoshi8/Kiyoshi8/blob/output/github-contribution-grid-snake.svg)-->
+
+![snake gif](https://github.com/Kiyoshi8/Kiyoshi8/blob/output/github-contribution-grid-snake.svg)
