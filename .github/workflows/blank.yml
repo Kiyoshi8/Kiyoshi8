@@ -26,23 +26,24 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-       - name: Clone repo
+      - name: Clone repo
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v3
+        uses: actions/checkout@v3
 
-      name: Generate the snake  files in './dist/'
+      - name: Generate the snake  files in './dist/'
 
     # Generates the snake  
-      - uses: Platane/snk@master
+      - uses: Platane/snk@3
         id: snake-gif
         with:
-          github_user_name: Kiyoshi8
-        output:
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          dist/github-contribution-grid-snake.svg
-          dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots-#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - name: Show build status
@@ -55,7 +56,5 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_messaage: Update snake animations
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
