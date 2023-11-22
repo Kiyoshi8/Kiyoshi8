@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiyoshi C. Rio</h1>
-<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/0f461f26-b239-441d-86bd-c860a89245ca/main/aditya-banner.png"></div>
+<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/2ababd73-96c7-46b1-a01c-a4f9eb760011/main/aditya-banner.png"></div>
+
 <h3 align="center">Love to code and love to learn programming languages</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyoshi8&label=Profile%20views&color=0e75b6&style=flat" alt="kiyoshi8" /> </p>
