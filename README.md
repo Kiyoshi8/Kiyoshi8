@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiyoshi C. Rio</h1>
 <!---<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/2ababd73-96c7-46b1-a01c-a4f9eb760011/main/aditya-banner.png"></div>--->
-<!---<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/d59e469e-93b1-4ea1-a781-bb4375aa36c0/main/aditya-banner.png"></div>--->
-<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/ad1023a4-c4d9-4c4b-afb6-3fe1e64c844c/main/aditya-banner.png"></div>
+<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/d59e469e-93b1-4ea1-a781-bb4375aa36c0/main/aditya-banner.png"></div>
+
 
 <h3 align="center">Love to code and love to learn programming languages</h3>
 
