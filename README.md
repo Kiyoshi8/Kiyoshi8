@@ -4,7 +4,9 @@
 
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/6f928d60-edd0-4ea9-9ff6-b961bf59bbf4/main/aditya-banner.png"></div>-->
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/cbc3d2ac-9e63-496c-9aa4-93b811896a10/main/aditya-banner.png"></div>-->
-<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/e85a1819-799b-4852-8b80-5e8367ab8741/main/aditya-banner.png"></div>
+<!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/e85a1819-799b-4852-8b80-5e8367ab8741/main/aditya-banner.png"></div>-->
+
+<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/81fe6dde-0096-43c1-8278-72b8d570fb37/main/aditya-banner.png"></div>
 
 
 
