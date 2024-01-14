@@ -10,7 +10,8 @@
 
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/46ddae44-e44d-4651-a375-6af66dcd2ee9/main/aditya-banner.png"></div>-->
 
-<div align="center"><img src="https://https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/be85984c-b967-43e1-ba93-0d64cac31704/main/aditya-banner.jpeg"></div>
+<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/e0f68a17-fb9c-4d29-b348-cbe0ddf62e58/main/aditya-banner.png"></div>
+
 
 
 
