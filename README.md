@@ -8,7 +8,11 @@
 
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/81fe6dde-0096-43c1-8278-72b8d570fb37/main/aditya-banner.png"></div>-->
 
-<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/46ddae44-e44d-4651-a375-6af66dcd2ee9/main/aditya-banner.png"></div>
+<!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/46ddae44-e44d-4651-a375-6af66dcd2ee9/main/aditya-banner.png"></div>-->
+
+<div align="center"><img src="https://https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/9aaf95de-64e1-49bb-a652-ceeb797801dc/main/aditya-banner.png"></div>
+
+
 
 
 
