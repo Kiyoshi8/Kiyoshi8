@@ -12,9 +12,9 @@
 
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/4fd0cedb-9083-471a-8668-5b80b55c4952/main/aditya-banner.png"></div>-->
 
-<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/4a5a7109-d9f9-499d-8d1d-8f33ac95b09f/main/aditya-banner.png"></div>
+<!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/4a5a7109-d9f9-499d-8d1d-8f33ac95b09f/main/aditya-banner.png"></div>-->
 
-
+<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/182c1417-4661-485c-8058-919673c2eb30/main/aditya-banner.png"></div>
 
 
 
