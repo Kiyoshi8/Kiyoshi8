@@ -14,8 +14,9 @@
 
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/4a5a7109-d9f9-499d-8d1d-8f33ac95b09f/main/aditya-banner.png"></div>-->
 
-<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/18f01364-d956-4e7f-bc13-06e62e76fbfb/main/aditya-banner.png"></div>
+<!---<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/18f01364-d956-4e7f-bc13-06e62e76fbfb/main/aditya-banner.png"></div>-->
 
+<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/23cf27e1-372d-41fd-89fc-1943ce0565c5/main/aditya-banner.png"></div>
 
 
 
