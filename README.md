@@ -20,7 +20,7 @@
 
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/b27f6e54-0ed1-4c84-bfbd-4af1fb9b49d9/main/aditya-banner.png"></div>-->
 
-<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/eaf2f92f-a426-4319-9c68-a2ce3a04e8e6/main/aditya-banner.png"></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/834c1535-7b98-4504-a9fd-b99d67510c79/main/aditya-banner.png"></div>
 
 
 
