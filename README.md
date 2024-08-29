@@ -12,7 +12,7 @@
 
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/4fd0cedb-9083-471a-8668-5b80b55c4952/main/aditya-banner.png"></div>-->
 
-<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/4a5a7109-d9f9-499d-8d1d-8f33ac95b09f/main/aditya-banner.png"></div>
+<!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/4a5a7109-d9f9-499d-8d1d-8f33ac95b09f/main/aditya-banner.png"></div>-->
 
 <!---<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/18f01364-d956-4e7f-bc13-06e62e76fbfb/main/aditya-banner.png"></div>-->
 
@@ -21,6 +21,8 @@
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/b27f6e54-0ed1-4c84-bfbd-4af1fb9b49d9/main/aditya-banner.png"></div>-->
 
 <!---<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/a0e4f73a-6e04-4027-bd2e-30591765fedf/main/aditya-banner.jpg"></div>-->
+
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/008av8Hogy1hshw7rtogwj31hc0u04lb.jpg"> </div>
 
 
 
