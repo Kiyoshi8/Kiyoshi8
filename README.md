@@ -22,7 +22,7 @@
 
 <!---<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/a0e4f73a-6e04-4027-bd2e-30591765fedf/main/aditya-banner.jpg"></div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/008av8Hogy1hshw7rtogwj31hc0u04lb.jpg"> </div>
+<!---<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/008av8Hogy1hshw7rtogwj31hc0u04lb.jpg"> </div>-->
 
 <div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Li-SHEN_Wallpaper.png"> </div>
 
