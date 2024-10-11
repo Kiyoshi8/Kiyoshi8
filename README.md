@@ -14,7 +14,7 @@
 
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/4a5a7109-d9f9-499d-8d1d-8f33ac95b09f/main/aditya-banner.png"></div>-->
 
-<!---<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/18f01364-d956-4e7f-bc13-06e62e76fbfb/main/aditya-banner.png"></div>-->
+<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/18f01364-d956-4e7f-bc13-06e62e76fbfb/main/aditya-banner.png"></div>
 
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/9240a2aa-09dd-411e-a733-88021880c4d6/main/aditya-banner.png"></div>-->
 
@@ -24,7 +24,7 @@
 
 <!---<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/008av8Hogy1hshw7rtogwj31hc0u04lb.jpg"> </div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Li-SHEN_Wallpaper.png"> </div>
+<!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Li-SHEN_Wallpaper.png"> </div>-->
 
 
 
