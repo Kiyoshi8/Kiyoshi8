@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiyoshi C. Rio</h1>
-<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/2ababd73-96c7-46b1-a01c-a4f9eb760011/main/aditya-banner.png"></div>
+<!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/2ababd73-96c7-46b1-a01c-a4f9eb760011/main/aditya-banner.png"></div>-->
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/d59e469e-93b1-4ea1-a781-bb4375aa36c0/main/aditya-banner.png"></div>-->
 
 <!--<div align="center"><img src="https://github.com/Kiyoshi8/Kiyoshi8/assets/86674319/6f928d60-edd0-4ea9-9ff6-b961bf59bbf4/main/aditya-banner.png"></div>-->
@@ -25,6 +25,8 @@
 <!---<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/008av8Hogy1hshw7rtogwj31hc0u04lb.jpg"> </div>-->
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Li-SHEN_Wallpaper.png"> </div>-->
+
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/shen_xinghui_wallpaper.png"> </div>
 
 
 
