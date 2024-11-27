@@ -26,8 +26,9 @@
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Li-SHEN_Wallpaper.png"> </div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/shen_xinghui-wallpaper.png"> </div>
+<!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/shen_xinghui-wallpaper.png"> </div>-->
 
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Cats LADS Facebook Cover 851x315 px.png"> </div>
 
 
 
