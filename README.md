@@ -28,7 +28,9 @@
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/shen_xinghui-wallpaper.png"> </div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Facebook Event Cover 2020x1280 px.png"> </div>
+<!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Facebook Event Cover 2020x1280 px.png"> </div>-->
+
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/MerryChristmas-ShenXinghui.png"> </div>
 
 
 
