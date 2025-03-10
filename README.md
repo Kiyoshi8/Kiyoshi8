@@ -30,7 +30,7 @@
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Facebook Event Cover 2020x1280 px.png"> </div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/夏以昼.png"> </div>
+<!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/夏以昼.png"> </div>-->
 
 <div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Shenxinghuievent2.png"> </div>
 
