@@ -32,6 +32,8 @@
 
 <div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/夏以昼.png"> </div>
 
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Shenxinghuievent2.png"> </div>
+
 
 
 <h3 align="center">Love to code and love to learn programming languages</h3>
