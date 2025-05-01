@@ -34,7 +34,10 @@
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Shenxinghuievent2.png"> </div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Xiayizhou.png"> </div>
+<!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Xiayizhou.png"> </div>-->
+
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/ShenXinghuiwallpaper1.png"> </div>
+
 
 
 
