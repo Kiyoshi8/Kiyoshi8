@@ -47,7 +47,9 @@
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/lishenmythwallpaper.png"> </div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/008av8Hogy1i6r1nkufuzj31hc0u0npe_filter.png"> </div>
+<!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/008av8Hogy1i6r1nkufuzj31hc0u0npe_filter.png"> </div>-->
+
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/qinche-sylus.jpg"> </div>
 
 
 
