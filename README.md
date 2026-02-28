@@ -51,8 +51,9 @@
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/qinche-sylus.jpg"> </div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/sehnxinghuiwallpaper2026.png"> </div>
+<!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/sehnxinghuiwallpaper2026.png"> </div>-->
 
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/newwallpaper feb2026.png"> </div>
 
 
 
