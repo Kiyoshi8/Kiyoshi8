@@ -85,8 +85,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" <i class="devicon-android-plain colored" alt="android" width="40" height="40"/>
-  </i></a>
+    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="android" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/CSS3_logo.svg.png" alt="css3" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Figma-logo.svg.png" alt="figma" width="30" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Git_icon.svg.png" alt="git" width="40" height="40"/></a>
