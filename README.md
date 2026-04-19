@@ -85,9 +85,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <!--<div style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">-->
 <!--<p align="left" style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">-->
-<p text-align-last="justify">
+<p text-align-last="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
