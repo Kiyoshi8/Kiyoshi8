@@ -84,8 +84,8 @@
 -->
 <h3 align="left">Languages and Tools:</h3>
 <!--<div style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">-->
-<div style="display: flex; align-items: center; gap: 15px;">
 
+<p align="center">
 <!--<p align="left" style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">-->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
@@ -135,7 +135,7 @@
   <a href="https://new.drupal.org/home" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Wordmark2_blue_RGB(1).png" alt="drupal" width="50" height="40"/></a>
   <a href="https://moodle.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/moodle-original-icon-2048x1389-u7hmiiak.png" alt="moodle" width="60" height="40"/></a>
   "JUST GO TO THIS SITE https://devicon.dev/ TO UPDATE ICONS"-->
-</div>
+</p>
 
 
 
