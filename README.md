@@ -127,7 +127,7 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moodle/moodle-original.svg" alt="moodle" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon" width="40" height="40"/></a>
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="amazon" width="40" height="40"/></a>
   <!--<a href="https://wordpress.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/174881.png" alt="wordpress" width="40" height="40"/></a>
   <a href="https://new.drupal.org/home" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Wordmark2_blue_RGB(1).png" alt="drupal" width="50" height="40"/></a>
   <a href="https://moodle.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/moodle-original-icon-2048x1389-u7hmiiak.png" alt="moodle" width="60" height="40"/></a>
