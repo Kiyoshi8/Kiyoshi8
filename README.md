@@ -87,9 +87,9 @@
 -->
 <h3 align="left">Languages and Tools:</h3>
 <!--<div style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">-->
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 15px; overflow-x: auto;">
+<!--<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 15px; overflow-x: auto;">-->
 
-<!--<p align="left" style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">-->
+<!--<p align="left" style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <i class="devicon-android-plain" alt="android" width="40" height="40"/></i></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
@@ -137,9 +137,49 @@
   <!--<a href="https://wordpress.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/174881.png" alt="wordpress" width="40" height="40"/></a>
   <a href="https://new.drupal.org/home" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/Wordmark2_blue_RGB(1).png" alt="drupal" width="50" height="40"/></a>
   <a href="https://moodle.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/moodle-original-icon-2048x1389-u7hmiiak.png" alt="moodle" width="60" height="40"/></a>
-  "JUST GO TO THIS SITE https://devicon.dev/ TO UPDATE ICONS"-->
+  "JUST GO TO THIS SITE https://devicon.dev/ TO UPDATE ICONS"
+</div>-->
+
+<div class="tools">
+  <a href="https://developer.android.com"><i class="devicon-android-plain"></i></a>
+  <a href="https://www.w3schools.com/css/"><i class="devicon-css3-plain colored"></i></a>
+  <a href="https://www.figma.com/"><i class="devicon-figma-plain colored"></i></a>
+  <a href="https://git-scm.com/"><i class="devicon-git-plain colored"></i></a>
+  <a href="https://www.w3.org/html/"><i class="devicon-html5-plain colored"></i></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><i class="devicon-javascript-plain colored"></i></a>
+  <a href="https://www.linux.org/"><i class="devicon-linux-plain colored"></i></a>    
+  <a href="https://www.mongodb.com/"><i class="devicon-mongodb-plain-wordmark colored"></i></a> 
+  <a href="https://www.microsoft.com/en-us/sql-server"><i class="devicon-microsoftsqlserver-plain-wordmark"></i></a>
+  <a href="https://mariadb.org/"><i class="devicon-mariadb-original-wordmark colored"></i></a>
+  <a href="https://nodejs.org"><i class="devicon-nodejs-plain colored"></i></a>
+  <a href="https://www.photoshop.com/en"><i class="devicon-photoshop-plain colored"></i></a>
+  <a href="https://postman.com"><i class="devicon-postman-plain colored"></i></a>
+  <a href="https://www.python.org"><i class="devicon-python-plain-wordmark"></i></a>
+  <a href="https://reactnative.dev/"><i class="devicon-react-original colored"></i></a>
+  <a href="https://vuejs.org/"><i class="devicon-vuejs-plain-wordmark colored"></i></a>
+  <a href="https://flutter.dev"><i class="devicon-flutter-plain colored"></i></a>
+  <a href="https://www.w3schools.com/cs/"><i class="devicon-csharp-plain colored"></i></a>
+  <a href="https://www.w3schools.com/cs/"><i class="devicon-wordpress-plain-wordmark"></i></a>
+  <a href="https://www.w3schools.com/cs/"><i class="devicon-drupal-plain colored"></i></a>
+  <a href="https://www.w3schools.com/cs/"><i class="devicon-moodle-plain-wordmark colored"></i></a>
 </div>
 
+<style>
+  .social-media a {
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      width: 4rem;
+      height: 4rem;
+      background: transparent;
+      border: .2rem solid var(--main-color);
+      border-radius: 50%;
+      font-size: 2rem;
+      color: var(--main-color);
+      margin: 3rem 1.5rem 3rem 0;
+      transition: .5s ease;
+  }
+</style>
 
 
 
