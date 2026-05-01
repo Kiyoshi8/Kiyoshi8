@@ -94,43 +94,45 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <img src="css3-original.svg" alt="css" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="30" height="40"/></a>
+    <img src="figma-original.svg" alt="figma" width="30" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+    <img src="git-original.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+    <img src="html5-original.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+    <img src="javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+    <img src="linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+    <img src="mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="mssql" width="40" height="40"/></a>
+    <img src="microsoftsqlserver-original-wordmark.svg" alt="mssql" width="40" height="40"/></a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/></a>
+    <img src="mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+    <img src="nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/></a>
+    <img src="photoshop-original.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
+    <img src="postman-original.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
+    <img src="pycharm-original.svg" alt="pycharm" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <img src="python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/></a>
+    <img src="react-original.svg" alt="reactnative" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
+    <img src="vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
+    <img src="flutter-original.svg" alt="flutter" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+    <img src="csharp-original.svg" alt="csharp" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
+    <img src="wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-original.svg" alt="drupal" width="40" height="40"/></a>
+    <img src="drupal-original.svg" alt="drupal" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moodle/moodle-original.svg" alt="moodle" width="40" height="40"/></a>
+    <img src="moodle-original.svg" alt="moodle" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="amazon" width="40" height="40"/></a>
   <!--<a href="https://wordpress.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;"><img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/174881.png" alt="wordpress" width="40" height="40"/></a>
