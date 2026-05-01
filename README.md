@@ -90,9 +90,9 @@
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 15px; overflow-x: auto;">
 <!--<p align="left" style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">-->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"alt="android" width="30" height="40"/></a>          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"alt="android" width="40" height="40"/></a>          
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="30" height="40"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="30" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
