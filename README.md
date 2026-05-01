@@ -127,11 +127,11 @@
     <img src="flutter-original.svg" alt="flutter" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <img src="csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <img src="wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://new.drupal.org/home" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <img src="drupal-original.svg" alt="drupal" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://moodle.org/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <img src="moodle-original.svg" alt="moodle" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="amazon" width="40" height="40"/></a>
