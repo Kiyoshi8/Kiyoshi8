@@ -140,46 +140,7 @@
   "JUST GO TO THIS SITE https://devicon.dev/ TO UPDATE ICONS"
 </div>-->
 
-<div class="tools">
-  <a href="https://developer.android.com"><i class="devicon-android-plain"></i></a>
-  <a href="https://www.w3schools.com/css/"><i class="devicon-css3-plain colored"></i></a>
-  <a href="https://www.figma.com/"><i class="devicon-figma-plain colored"></i></a>
-  <a href="https://git-scm.com/"><i class="devicon-git-plain colored"></i></a>
-  <a href="https://www.w3.org/html/"><i class="devicon-html5-plain colored"></i></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><i class="devicon-javascript-plain colored"></i></a>
-  <a href="https://www.linux.org/"><i class="devicon-linux-plain colored"></i></a>    
-  <a href="https://www.mongodb.com/"><i class="devicon-mongodb-plain-wordmark colored"></i></a> 
-  <a href="https://www.microsoft.com/en-us/sql-server"><i class="devicon-microsoftsqlserver-plain-wordmark"></i></a>
-  <a href="https://mariadb.org/"><i class="devicon-mariadb-original-wordmark colored"></i></a>
-  <a href="https://nodejs.org"><i class="devicon-nodejs-plain colored"></i></a>
-  <a href="https://www.photoshop.com/en"><i class="devicon-photoshop-plain colored"></i></a>
-  <a href="https://postman.com"><i class="devicon-postman-plain colored"></i></a>
-  <a href="https://www.python.org"><i class="devicon-python-plain-wordmark"></i></a>
-  <a href="https://reactnative.dev/"><i class="devicon-react-original colored"></i></a>
-  <a href="https://vuejs.org/"><i class="devicon-vuejs-plain-wordmark colored"></i></a>
-  <a href="https://flutter.dev"><i class="devicon-flutter-plain colored"></i></a>
-  <a href="https://www.w3schools.com/cs/"><i class="devicon-csharp-plain colored"></i></a>
-  <a href="https://www.w3schools.com/cs/"><i class="devicon-wordpress-plain-wordmark"></i></a>
-  <a href="https://www.w3schools.com/cs/"><i class="devicon-drupal-plain colored"></i></a>
-  <a href="https://www.w3schools.com/cs/"><i class="devicon-moodle-plain-wordmark colored"></i></a>
-</div>
 
-<style>
-  .social-media a {
-      display: inline-flex;
-      justify-content: center;
-      align-items: center;
-      width: 4rem;
-      height: 4rem;
-      background: transparent;
-      border: .2rem solid var(--main-color);
-      border-radius: 50%;
-      font-size: 2rem;
-      color: var(--main-color);
-      margin: 3rem 1.5rem 3rem 0;
-      transition: .5s ease;
-  }
-</style>
 
 
 
