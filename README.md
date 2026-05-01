@@ -88,9 +88,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <!--<div style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">-->
 <!--<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 15px; overflow-x: auto;">-->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display:flex;">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display:flex; justify-content: center; align-items: center;">
     <i class="devicon-android-plain" alt="android" width="40" height="40"></i></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex;">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
     <i class="devicon-css3-plain colored" alt="css3" width="40" height="40"></i></a>
 <!--<p align="left" style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 15px; width: 100%; max-width: 600px;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
