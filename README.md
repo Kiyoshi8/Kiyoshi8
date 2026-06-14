@@ -72,7 +72,8 @@
 
 - 🌱 I’m currently learning **Python, R, SQL, Machine Learning, React**
 
-- 👨‍💻 All of my projects are available at [https://kiyoshi8.github.io/3D-City-Animation/index_4.html](https://kiyoshi8.github.io/3D-City-Animation/index_4.html)
+<!--- 👨‍💻 All of my projects are available at [https://kiyoshi8.github.io/3D-City-Animation/index_4.html](https://kiyoshi8.github.io/3D-City-Animation/index_4.html)-->
+- 👨‍💻 All of my projects are available at [KiyoshiRio](https://kiyoshirio.straw.page/)
 
 - 📫 How to reach me **kiyoshi.rio@gmail.com**
 
