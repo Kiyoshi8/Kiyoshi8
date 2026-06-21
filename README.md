@@ -61,7 +61,10 @@
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/008av8Hogy1idqroj3lp4j32yo1o0npf.jpg"> </div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/lishen3 (2).gif"> </div>
+<!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/lishen3 (2).gif"> </div>-->
+
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/screenshot-20260621-174121.png"> </div>
+
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/testing4 (2).gif"> </div>-->
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
