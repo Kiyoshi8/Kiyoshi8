@@ -63,7 +63,7 @@
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/lishen3 (2).gif"> </div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/screenshot-20260621-174121.png"> </div>
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/ladsmovie.png"> </div>
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/testing4 (2).gif"> </div>-->
 
