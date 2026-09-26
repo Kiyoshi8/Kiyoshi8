@@ -65,12 +65,15 @@
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/ladsmovie.png"> </div>-->
 
-<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/qiyunewmythsoldierwallpaper.png"> </div>
+<!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/qiyunewmythsoldierwallpaper.png"> </div>-->
+
+<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/sylus wallpaper.png"> </div>
 
 
 <!--<div align="center"> <img src="https://github.com/Kiyoshi8/Kiyoshi8/blob/main/testing4 (2).gif"> </div>-->
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
        
 
 
