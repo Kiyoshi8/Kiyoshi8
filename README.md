@@ -80,7 +80,7 @@
 
 <h3 align="center">Love to code and love to learn programming languages</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyoshi8&label=Profile%20views&color=0e75b6&style=flat" alt="kiyoshi8" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyoshi8&label=Profile%20views&color=0e75b6&style=flat" alt="kiyoshi8" /> </p>-->
 
 - 🌱 I’m currently learning **Python, R, SQL, Machine Learning, React**
 
